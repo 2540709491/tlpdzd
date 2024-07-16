@@ -1,0 +1,23 @@
+# ninja log v5
+191	1279	7428352891612846	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	521a37d50375585f
+446	1236	7428352890543325	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	509ff1f952499729
+296	1238	7428352890742979	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a97a844cf8373ff6
+347	1237	7428352890533298	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	cf605fae4c6813ba
+492	1263	7428352891131494	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c7488fb83467823b
+134	1180	7428352890493100	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f3e6689bba02f5fa
+396	1493	7428352893828557	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7ef3761793e13d0a
+1181	1409	7428352892989812	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	30e4c12d0d444341
+236	1583	7428352894733166	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	29b0d4f21b253f0a
+1409	2380	7428352902640309	E:/Unity/Editor/tlpdzd/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2d3d82q1/obj/arm64-v8a/libswappywrapper.so	d2304942c3fc8098
+1583	2403	7428352902640309	E:/Unity/Editor/tlpdzd/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2d3d82q1/obj/arm64-v8a/libgame.so	236789ee59d54aa6
+823	2822	7428360438045963	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	509ff1f952499729
+737	2879	7428360437818315	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f3e6689bba02f5fa
+865	2879	7428360438000874	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	cf605fae4c6813ba
+781	2919	7428360439156883	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a97a844cf8373ff6
+958	2928	7428360439351791	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	c7488fb83467823b
+28	2932	7428360439419129	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	521a37d50375585f
+914	3129	7428360441402146	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7ef3761793e13d0a
+2823	3296	7428360442830347	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	30e4c12d0d444341
+655	3306	7428360442845421	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	29b0d4f21b253f0a
+3306	4374	7428360453830281	E:/Unity/Editor/tlpdzd/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2d3d82q1/obj/arm64-v8a/libgame.so	236789ee59d54aa6
+3296	4374	7428360453841572	E:/Unity/Editor/tlpdzd/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2d3d82q1/obj/arm64-v8a/libswappywrapper.so	d2304942c3fc8098
